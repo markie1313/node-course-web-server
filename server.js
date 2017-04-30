@@ -71,5 +71,5 @@ app.get('/bad', (req, res) => {
 
 
 app.listen(port, () => {
-  console.log(`Server is funning on port ${port}, but I really don't know why`);
+  console.log(`Server is funning on port ${port}, but I really don't know why. Ok, I kinda do, but...`);
 });
